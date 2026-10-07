@@ -133,7 +133,7 @@ Provide legally defensible timestamped proof of existence and integrity.
 
 ---
 
-## C. PEC / PAdES Workflow Portal
+## C. PEC / Digital Signature Workflow Portal
 
 Features:
 
@@ -141,7 +141,7 @@ Features:
 * Digital signing
 * Certified email workflow
 * Receipt verification
-* PAdES validation
+* Signature validation
 
 Use Case:
 Deliver legally signed and certified documents with traceable proof.
@@ -199,8 +199,8 @@ Cryptographically verifiable proof of existence.
 
 1. Generate Merkle root
 2. Submit anchor transaction
-3. Record transaction hash
-4. Optionally mint NFT proof token
+3. Record transaction 
+
 
 Outcome:
 Publicly verifiable blockchain-backed legal integrity reference.
